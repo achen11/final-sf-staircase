@@ -269,19 +269,6 @@ img {vertical-align: middle;}
   }
   
 
-
-
-/* .video {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding-right: 10px;
-  padding-top: 0px;
-  min-width: 100%;
-  max-width: 100%;
-  
-} */
-
 #myVideo {
   position: fixed;
   right: 0;
@@ -310,7 +297,11 @@ img {vertical-align: middle;}
   padding-top: 20px;
 }
 
+.credit-text {
+  font-size: 15px;
+}
+
 .credits h3 {
-  font-size: 30px;
+  font-size: 25px;
   padding-bottom: 0px;
 }
