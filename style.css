@@ -104,11 +104,13 @@ body {background-color: rgb(255, 255, 255);}
 
 
 .top h1 {
-  font-size: 60px;
-  padding-bottom: 10px;
+  font-size: 70px;
+  padding-bottom: 0px;
+ 
 }
 
 .top h2 {
+  padding-top: -15px;
   font-size: 25px;
   font-family: 'Roboto',sans-serif;
   padding-bottom: 10px;
