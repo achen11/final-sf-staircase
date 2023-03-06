@@ -34,6 +34,18 @@
   }
 }
 
+@media(max-width: 480px) {
+  .carousel-content {
+      margin: 50px 0 20px;
+  }
+}
+
+@media (max-width:400px) {
+  .carousel {
+    display: none;
+  }
+}
+
 .carousel-content img {
   height: 100vh;
   min-width: 100vw;
@@ -123,6 +135,14 @@ body {background-color: rgb(255, 255, 255);}
   position: relative;
   z-index: 10000000000;
 }
+
+@media(max-width: 480px) {
+  .article {
+      padding-left: 0px;
+      padding-right: 0px;
+  }
+}
+
 
 .quote {
   font-style: italic;
